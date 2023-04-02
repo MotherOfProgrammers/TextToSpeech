@@ -2,7 +2,7 @@
 
 This Text To Speech Script Was Created By Python3.
 
-Working Only For Windows And Python V3 To More
+Working Only For Windows And Python V3 To More!
 
 Commands To Run
 
