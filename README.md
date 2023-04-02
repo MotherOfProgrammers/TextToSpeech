@@ -6,8 +6,8 @@ Working Only For Windows And Python V3 To More!
 
 Commands To Run
 
-[*] python txtspeech.py
-[*] Password Is 4455
+= python txtspeech.py
+= Password Is 4455
 
 You Can Test The Audio File Or Open It Using The Directory Which Is Stored The Python Script.
 
