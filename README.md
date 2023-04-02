@@ -6,7 +6,7 @@ Working Only For Windows And Python V3 To More
 
 Commands To Run
 
-[-] python txtspeech.py
+[*] python txtspeech.py
 
 You Can Test The Audio File Or Open It Using The Directory Which Is Stored The Python Script.
 
